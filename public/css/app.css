@@ -1,0 +1,279 @@
+body {
+    background-color: #1e1e1e !important;
+}
+.imgLogo{
+    position: relative;
+    top: 1px;
+    left: 25px;
+    max-width: 164px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+.menu {
+    top: -420px;
+    padding-top: 79px;
+    position: relative;
+}
+.menuLink {
+    text-decoration: none;
+    color: white;
+}
+.navMenu{
+    font-size: 15px;
+    font-family: Montserrat, sans-serif;
+}
+.img1{
+    position: relative;
+    top: 4px;
+    left: -28px;
+    max-width: 134px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+.img2{
+    position: relative;
+    top: 100px;
+    left: -164px;
+    max-width: 134px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+.img3{
+    position: relative;
+    top: 196px;
+    left: -302px;
+    max-width: 134px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+.img4{
+    position: relative;
+    top: 293px;
+    left: -440px;
+    max-width: 134px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+.img5{
+    position: relative;
+    top: 390px;
+    left: -578px;
+    max-width: 134px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+.linha {
+    transform: rotate(90deg);
+    position: relative;
+    top: 30px;
+    left: -182px;
+}
+.card {
+    position: relative;
+    top: -875px;
+    left: 232px;
+}
+.card-header {
+    left: 43px;
+    font-size: 15px;
+    font-family: Montserrat, sans-serif;
+    top: 39px;
+    color: white;
+    position: relative;
+}
+.games {
+    left: 38px;
+    font-size: 40px;
+    font-family: Montserrat, sans-serif;
+    top: -116px;
+    color: #666666;
+    position: relative;
+}
+.img2card {
+    max-width: 218px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+.textOF {
+    position: relative;
+    top: -127px;
+    left: 42px;
+}
+
+.textOF1 {
+    left: -5px;
+    font-size: 30px;
+    font-family: Montserrat, sans-serif;
+    top: -2px;
+    color: #666666;
+    position: relative;
+}
+.textOF2 {
+    left: -5px;
+    font-size: 15px;
+    font-family: Montserrat, sans-serif;
+    top: -2px;
+    color: #666666;
+    position: relative;
+}
+.textOF3 {
+    left: -5px;
+    font-size: 13px;
+    font-family: Montserrat, sans-serif;
+    top: -2px;
+    color: white;
+    position: relative;
+}
+
+.card1 {
+    position: relative;
+    top: -1245px;
+    left: 826px;
+    width: 12rem;
+}
+.cardImg1 {
+    width: 12rem;
+}
+
+.card-text1 {
+    font-size: 13px;
+    font-family: Montserrat, sans-serif;
+    color: white;
+    position: relative;
+}
+
+.card2 {
+    position: relative;
+    top: -1495px;
+    left: 1028px;
+    width: 12rem;
+}
+.cardImg2 {
+    width: 12rem;
+}
+
+.card-text2 {
+    font-size: 13px;
+    font-family: Montserrat, sans-serif;
+    color: white;
+    position: relative;
+}
+
+.card3 {
+    position: relative;
+    top: -1771px;
+    left: 1228px;
+    width: 12rem;
+}
+.cardImg3 {
+    width: 12rem;
+}
+
+.card-text3 {
+    font-size: 13px;
+    font-family: Montserrat, sans-serif;
+    color: white;
+    position: relative;
+}
+
+.card4 {
+    position: relative;
+    top: -1928px;
+    left: 1431px;
+    width: 15rem;
+}
+.cardImg4 {
+    width: -11rem;
+}
+
+.card-text4 {
+    font-size: 30px;
+    font-family: Montserrat, sans-serif;
+    color: white;
+    position: relative;
+}
+
+.cardContato {
+    width: 12rem;
+    text-decoration: none;
+    color: #666666;
+    font-family: Montserrat, sans-serif;
+}
+
+.cardImg5 {
+    position: relative;
+    top: -30px;
+    left: 127px;
+}
+.cardBlog {
+    position: relative;
+    top: -175px;
+    left: 317px;
+    color: #666666;
+    font-family: Montserrat, sans-serif;
+    font-size: 10px;
+}
+.cardImg6 {
+    position: relative;
+    top: -196px;
+    left: 488px;
+}
+
+.cardBlog1 {
+    position: relative;
+    width: 15rem;
+    top: -1005px;
+    left: 278px;
+}
+
+.img1Blog {
+    width: 15rem;
+}
+.cardSka1 {
+    font-size: 13px;
+    font-family: Montserrat, sans-serif;
+    color: white;
+    position: relative;
+}
+
+.card-title-ska {
+    font-size: 17px;
+    font-family: Montserrat, sans-serif;
+    color: #666666;
+    position: relative;
+}
+
+.card-body1 {
+    position: relative;
+    top: -12px;
+    left: 15px;
+}
+
+.img2Blog {
+    position: relative;
+    top: -1432px;
+    left: 457px;
+    width: 8rem;
+}
+
+.img3Blog {
+    position: relative;
+    top: -1477px;
+    left: 354px;
+}
+
+.ska {
+    font-size: 13px;
+    font-family: Montserrat, sans-serif;
+    color: #292929;
+    position: relative;
+
+}
